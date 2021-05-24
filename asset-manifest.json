@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/memoryGame/static/css/main.90878c16.chunk.css",
+    "main.js": "/memoryGame/static/js/main.34afbaab.chunk.js",
+    "main.js.map": "/memoryGame/static/js/main.34afbaab.chunk.js.map",
+    "runtime-main.js": "/memoryGame/static/js/runtime-main.7552573d.js",
+    "runtime-main.js.map": "/memoryGame/static/js/runtime-main.7552573d.js.map",
+    "static/js/2.2ea965ef.chunk.js": "/memoryGame/static/js/2.2ea965ef.chunk.js",
+    "static/js/2.2ea965ef.chunk.js.map": "/memoryGame/static/js/2.2ea965ef.chunk.js.map",
+    "static/js/3.f960937f.chunk.js": "/memoryGame/static/js/3.f960937f.chunk.js",
+    "static/js/3.f960937f.chunk.js.map": "/memoryGame/static/js/3.f960937f.chunk.js.map",
+    "index.html": "/memoryGame/index.html",
+    "static/css/main.90878c16.chunk.css.map": "/memoryGame/static/css/main.90878c16.chunk.css.map",
+    "static/js/2.2ea965ef.chunk.js.LICENSE.txt": "/memoryGame/static/js/2.2ea965ef.chunk.js.LICENSE.txt",
+    "static/media/0b1.9592a94b.png": "/memoryGame/static/media/0b1.9592a94b.png",
+    "static/media/Blooze.9ffc8934.png": "/memoryGame/static/media/Blooze.9ffc8934.png",
+    "static/media/Fomu.cabe37ae.png": "/memoryGame/static/media/Fomu.cabe37ae.png",
+    "static/media/Hocus.0a0fb925.png": "/memoryGame/static/media/Hocus.0a0fb925.png",
+    "static/media/Mushi.2a43fc39.png": "/memoryGame/static/media/Mushi.2a43fc39.png",
+    "static/media/Occlura.42d64a92.png": "/memoryGame/static/media/Occlura.42d64a92.png",
+    "static/media/Pewki.fd1a9e00.png": "/memoryGame/static/media/Pewki.fd1a9e00.png",
+    "static/media/Raize.f6d2a070.png": "/memoryGame/static/media/Raize.f6d2a070.png",
+    "static/media/Skail.f3330db0.png": "/memoryGame/static/media/Skail.f3330db0.png",
+    "static/media/Tateru.01e0337b.png": "/memoryGame/static/media/Tateru.01e0337b.png",
+    "static/media/Ukama.cd3155e8.png": "/memoryGame/static/media/Ukama.cd3155e8.png",
+    "static/media/ganki.e3f21d99.png": "/memoryGame/static/media/ganki.e3f21d99.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7552573d.js",
+    "static/js/2.2ea965ef.chunk.js",
+    "static/css/main.90878c16.chunk.css",
+    "static/js/main.34afbaab.chunk.js"
+  ]
+}
