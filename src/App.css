@@ -1,0 +1,55 @@
+.cardBox {
+  display: grid;
+  border: solid rgb(134, 134, 134) 1px;
+  border-radius: 5px;
+  grid-template-columns: repeat(4, 1fr);
+  width: 500px;
+  margin: auto;
+}
+@keyframes loadCard {
+  0% {
+    transform: scaleX(0) scaleY(0);
+  }
+
+  100% {
+    transform: scaleX(1) scaleY(1);
+  }
+}
+
+.card {
+  display: flex;
+  justify-self: center;
+  font-weight: 900;
+  margin: 10px;
+  font-size: 40px;
+  transition: all 200ms;
+  animation: 100ms ease-in 0s 1 loadCard;
+}
+
+.card:hover {
+  margin: 8px;
+}
+
+.cardImage {
+  max-width: 100%;
+  height: auto;
+  border: solid rgb(158, 158, 158) 1px;
+  border-radius: 5px;
+  box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.2);
+}
+
+.counter {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  margin: auto;
+  font-size: 40px;
+  font-weight: 900;
+  color: rgb(0, 0, 46);
+}
+
+.header {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
